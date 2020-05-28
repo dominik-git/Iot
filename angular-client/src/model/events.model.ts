@@ -1,0 +1,14 @@
+export enum KEY_CODE {
+    RIGHT_ARROW = 39,
+    LEFT_ARROW = 37,
+    UP_ARROW = 38,
+    DOWN_ARROW = 40
+  }
+
+  export enum KEY_CODE_NAME {
+    RIGHT_ARROW = "RIGHT_ARROW",
+    LEFT_ARROW = "LEFT_ARROW",
+    UP_ARROW = "UP_ARROW",
+    DOWN_ARROW = "DOWN_ARROW",
+    STOP_MOTOR="STOP_MOTOR"
+  }
