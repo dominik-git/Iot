@@ -21,7 +21,7 @@
     "@angular/router": "~9.0.2",
     "@types/express": "^4.17.2",
     "@types/socket.io": "^2.1.4",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "rxjs": "~6.5.4",
     "rxjs-observable": "0.0.7",
     "socket.io": "^2.3.0",
